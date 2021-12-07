@@ -1,4 +1,4 @@
-# Iterative Closest Point (Basic algorithm from scratch)
+# Iterative Closest Point (algorithm from scratch)
 
 **If you are using this repository, don't forget to star it!**
 
