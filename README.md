@@ -6,4 +6,7 @@ The file icp.py contains the code for iterative closest point. It expects two po
   <img src="output/icp-0.png" width="300" />
   <img src="output/icp-1.png" width="300" /> 
   <img src="output/icp-9.png" width="300" />
+  <img src="output/icp-17.png" width="300" />
+  <img src="output/icp-25.png" width="300" /> 
+  <img src="output/icp-33.png" width="300" />
 </p>
