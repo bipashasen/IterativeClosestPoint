@@ -11,5 +11,5 @@ The file icp.py contains the code for iterative closest point. It expects two po
   <img src="output/icp-33.png" width="300" />
   <img src="output/icp-41.png" width="300" />
   <img src="output/icp-57.png" width="300" /> 
-  <img src="output/icp-67.png" width="300" />
+  <img src="output/icp-65.png" width="300" />
 </p>
