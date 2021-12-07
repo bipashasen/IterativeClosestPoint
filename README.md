@@ -2,7 +2,7 @@
 
 <img align="left" alt="Java" width="23px" src="misc/star.png"/>**If you are using this repository, don't forget to star it!**
 
-The file icp.py contains the code for iterative closest point. It expects two pointclouds - Q and P. The code estimates the transformation needed such that Q and P are aligned. It does not use any inbuilt function, and uses Open3D for visualization. The correspondences between the points in the pointclouds are not known. 
+The file [icp.py](icp.py) contains the code for iterative closest point. It expects two pointclouds - Q and P. The code estimates the transformation needed such that Q and P are aligned. It does not use any inbuilt function, and uses Open3D for visualization. The correspondences between the points in the pointclouds are not known. 
 
 <p align="center">
   <img src="output/icp-0.png" width="250" />
